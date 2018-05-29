@@ -1,0 +1,6 @@
+
+jsrozner@rozner-mba ~ 
+(reverse-i-search)`wget': for i in `seq 1 9833`; do wget -pk --limit-rate=4000k http://www.shuowen.org/view/$i; done
+
+jsrozner@rozner-mba ~ 
+(reverse-i-search)`wget': wget -pk --limit-rate=2000k -i ~/Desktop/chinese/chars\ 1001-1500.txt 

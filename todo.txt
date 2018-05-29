@@ -1,0 +1,4 @@
+- Merge dicts
+- Add images?
+- Get true pinyin rather than pinyin with number in defn for first dict
+
